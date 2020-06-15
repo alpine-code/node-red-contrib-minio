@@ -7,3 +7,7 @@
 [![Build Status](https://drone.alpine-code.com/api/badges/alpine-code/node-red-contrib-minio/status.svg)](https://drone.alpine-code.com/alpine-code/node-red-contrib-minio)
 
 This module leverages the [minio-js](https://github.com/minio/minio-js) client library to bring Minio awesomeness to Node-RED!
+
+## Credits
+
+The package is developed and maintained by [Alpine Code](https://www.alpine-code.com/).
